@@ -40,7 +40,6 @@ jspm_packages
 *.swp
 
 # Project settings
-settings.yaml
 package-lock.json
 
 # Everything in the data directory
